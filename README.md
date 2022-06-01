@@ -1,6 +1,7 @@
 # Password-Generator-Site
 Site that generates customizable passwords
-- Choose from uppercase letters, lowercase letters, numbers, and symbols
+- Set desired password length
+- Choose whether to include: uppercase letters, lowercase letters, numbers, and symbols
 - Multiple hover effects (for fun)
 - Anchor tags with smooth scroll (also for fun)
 <br>
